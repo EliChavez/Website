@@ -94,7 +94,7 @@ a:focus {
 .navbar-custom ul.nav li a {
 	font-size: 12px;
 	letter-spacing: 1px;
-    color: #444;
+    color: #FFF;
 	text-transform: uppercase;
 	font-weight: 700;
 }
@@ -304,8 +304,7 @@ hr {
 .intro {
 	width:100%;
 	position:relative;
-	
-	background: url(http://images.summitpost.org/original/663459.JPG) no-repeat top center;
+	background: url('../img/rapids.JPG') no-repeat top center;
 }
 
 #intro.intro {
