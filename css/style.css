@@ -368,8 +368,11 @@ hr {
 }
 
 .avatar {
-	margin: auto;
-	  width: 295px;
+  margin-bottom: 20px;
+}
+.avatar2 {
+  width: 180px;
+  margin-left: 20px;
 }
 
 .team-social {
@@ -757,6 +760,7 @@ Parallax
 	.team.boxed-grey {
 		margin-bottom: 30px;
 	}
+
 	
 	.boxed-grey {
 		margin-bottom: 30px;
