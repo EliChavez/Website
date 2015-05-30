@@ -304,7 +304,8 @@ hr {
 	width:100%;
 	position:relative;
 	background: url('../img/camera.jpg') no-repeat top center;
-}
+	background-size: 100%;
+	}
 
 #intro.intro {
 	padding:20% 0 0 0;
